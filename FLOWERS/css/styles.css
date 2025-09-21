@@ -250,7 +250,7 @@
  @media(min-width:768px) {
      .flower {
          position: absolute;
-         bottom: -30rem;
+         bottom: -20rem;
          transform-origin: bottom center;
          z-index: 50;
      }
@@ -258,7 +258,7 @@
          font-size: 3.5rem;
          color: var(--primary-yellow);
          text-shadow: 0 0 10px rgba(255, 215, 0, 0.7);
-         margin-top: 30rem !important;
+         margin-top: -20rem !important;
          letter-spacing: 2px;
          position: relative;
          overflow: hidden;
@@ -272,7 +272,7 @@
  
  .flower {
      position: absolute;
-     bottom: -30rem;
+     bottom: -20rem;
      transform-origin: bottom center;
      z-index: 50;
  }
