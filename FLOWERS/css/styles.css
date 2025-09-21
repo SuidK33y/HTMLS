@@ -250,7 +250,7 @@
  @media(min-width:768px) {
      .flower {
          position: absolute;
-         bottom: 30;
+         bottom: 5;
          transform-origin: bottom center;
          z-index: 50;
      }
@@ -272,7 +272,7 @@
  
  .flower {
      position: absolute;
-     bottom: 30;
+     bottom: 5;
      transform-origin: bottom center;
      z-index: 50;
  }
